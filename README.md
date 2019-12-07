@@ -1,7 +1,7 @@
 # kafka-experiment
 A message queue experiment with Kafka
 
-## kafka startup
+## kafka docker
 A good article to create to kafka deployment can be found in 
 [here](https://itnext.io/how-to-install-kafka-using-docker-a2b7c746cbdc)
 
@@ -16,6 +16,4 @@ To shutdown kafka
 ```bash
 docker-compose -f kafka-docker-compose.yaml down
 ```
-
-## kafka docker 
 
