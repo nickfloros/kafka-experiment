@@ -17,3 +17,5 @@ To shutdown kafka
 docker-compose -f kafka-docker-compose.yaml down
 ```
 
+### docker with nodejs and oracledb client
+https://github.com/CollinEstes/docker-node-oracle
